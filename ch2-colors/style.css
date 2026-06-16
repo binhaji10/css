@@ -1,0 +1,10 @@
+.my-article {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #0ff
+
+}
+h1{
+    color: hsl(20, 100%, 50%)
+}
