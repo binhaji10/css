@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration:underline;
+    font-size: 30px;
+    text-shadow: 8px 5px 3px gray
+    
+}
+p{
+    text-indent: 50px;
+    color:maroon;
+    word-spacing: 10px;
+    line-height: 30px;
+    white-space:normal;
+    
+}
