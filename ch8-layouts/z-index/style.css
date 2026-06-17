@@ -1,0 +1,31 @@
+div{
+    position:fixed;
+    width: 200px;
+    height: 200px;
+    border:solid blue 10px;
+    border-radius: 40px;
+}
+ 
+#frist{
+
+    left: 0px;
+    top: 0px;
+    background-color: red;
+    z-index: 101;
+}
+
+#second{
+
+    left: 50px;
+    top: 90px;
+    background-color: yellow;
+    z-index: 100;
+}
+
+#third{
+
+    left: 100px;
+    top: 180px; 
+    background-color: green;
+    z-index: 102;
+}
